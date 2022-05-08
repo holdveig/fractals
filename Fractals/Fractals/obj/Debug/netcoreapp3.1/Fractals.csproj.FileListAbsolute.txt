@@ -1,0 +1,13 @@
+C:\Users\User\RiderProjects\Fractals\Fractals\bin\Debug\netcoreapp3.1\Fractals.exe
+C:\Users\User\RiderProjects\Fractals\Fractals\bin\Debug\netcoreapp3.1\Fractals.deps.json
+C:\Users\User\RiderProjects\Fractals\Fractals\bin\Debug\netcoreapp3.1\Fractals.runtimeconfig.json
+C:\Users\User\RiderProjects\Fractals\Fractals\bin\Debug\netcoreapp3.1\Fractals.runtimeconfig.dev.json
+C:\Users\User\RiderProjects\Fractals\Fractals\bin\Debug\netcoreapp3.1\Fractals.dll
+C:\Users\User\RiderProjects\Fractals\Fractals\bin\Debug\netcoreapp3.1\Fractals.pdb
+C:\Users\User\RiderProjects\Fractals\Fractals\obj\Debug\netcoreapp3.1\Fractals.csprojAssemblyReference.cache
+C:\Users\User\RiderProjects\Fractals\Fractals\obj\Debug\netcoreapp3.1\Fractals.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\Fractals\Fractals\obj\Debug\netcoreapp3.1\Fractals.AssemblyInfo.cs
+C:\Users\User\RiderProjects\Fractals\Fractals\obj\Debug\netcoreapp3.1\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\Fractals\Fractals\obj\Debug\netcoreapp3.1\Fractals.dll
+C:\Users\User\RiderProjects\Fractals\Fractals\obj\Debug\netcoreapp3.1\Fractals.pdb
+C:\Users\User\RiderProjects\Fractals\Fractals\obj\Debug\netcoreapp3.1\Fractals.genruntimeconfig.cache
